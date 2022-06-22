@@ -54,7 +54,6 @@
   }
   .blog_container .blog_items .blog_container_cards {
     margin-top: 40px;
-    gap: 40px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -62,7 +61,7 @@
   }
   .blog_container .blog_items .blog_container_cards div {
     display: block;
-    margin: 0 auto;
+    margin: 34px auto 0 auto;
   }
   .testimonials_container .testimonials_items h1 {
     font-size: 40px;

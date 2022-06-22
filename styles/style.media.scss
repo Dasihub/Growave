@@ -92,12 +92,11 @@
 
             .blog_container_cards {
                 margin-top: 40px;
-                gap: 40px;
                 flex-direction: column;
 
                 div {
                     display: block;
-                    margin: 0 auto;
+                    margin: 34px auto 0 auto;
                 }
             }
         }
